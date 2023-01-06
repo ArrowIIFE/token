@@ -1,0 +1,22 @@
+{
+  "emploee": [
+    {
+      "id": 3,
+      "name": "SADIK",
+      "department": "Manufecture",
+      "active": "true"
+    },
+    {
+      "id": 4,
+      "name": "NODEE ",
+      "department": "Food and Beverage",
+      "active": "true"
+    },
+    {
+      "id": 5,
+      "name": "MONGOOSE ",
+      "department": "Manufecture",
+      "active": "true"
+    }
+  ]
+}
